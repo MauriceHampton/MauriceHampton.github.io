@@ -33,6 +33,14 @@ h2{
 
 }
 
+h3{
+	margin: 0 auto;
+	font-family: Avenir, Medium;
+	color: #5a5d4f;
+	font-size: 40px;
+
+}
+
 img
 {
     max-width: 100%;
